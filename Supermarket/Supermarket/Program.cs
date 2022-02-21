@@ -1,4 +1,6 @@
-﻿Console.WriteLine("PRODUCTS");
+﻿using Supermarket;
+
+Console.WriteLine("PRODUCTS");
 Console.WriteLine("-------------------------------------------------");
 Product product1 = new FixedPriceProduct()
 {
